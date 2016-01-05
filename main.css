@@ -1,0 +1,19 @@
+nav {
+	color: gold;
+}
+
+ul {
+	list-style-type: none;
+	display: inline;
+}
+
+li a {
+	color: black;
+	text-decoration: none;
+	font-family: arial;
+	display: inline;
+}
+
+body {
+	font-family: arial;
+}
