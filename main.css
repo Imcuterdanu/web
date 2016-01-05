@@ -1,5 +1,7 @@
 nav {
 	color: gold;
+	list-style-type: none;
+	display: block;
 }
 
 ul {
@@ -9,9 +11,8 @@ ul {
 
 li a {
 	color: black;
-	text-decoration: none;
+	list-style-type: none;
 	font-family: arial;
-	display: inline;
 }
 
 body {
