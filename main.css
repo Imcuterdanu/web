@@ -23,6 +23,7 @@ body {
 	text-align: center;
 }
 
-h1 {
-
+p3 {
+	float: left;
+	margin-right: 50px;
 }
