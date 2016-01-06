@@ -1,7 +1,9 @@
 nav {
-	color: gold;
 	list-style-type: none;
 	display: block;
+	background-color: blue;
+	color: gold;
+	margin-right: 850px;
 }
 
 ul {
@@ -10,9 +12,8 @@ ul {
 }
 
 li a {
-	color: black;
-	list-style-type: none;
 	font-family: arial;
+	color: white;
 }
 
 body {
