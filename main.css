@@ -26,6 +26,10 @@ body {
 	font-size: 12px;
 }
 
+p {
+	float: left;
+}
+
 p3 {
 	float: left;
 	margin-right: 50px;
