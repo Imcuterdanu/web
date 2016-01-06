@@ -1,19 +1,26 @@
 nav {
 	list-style-type: none;
-	display: block;
 	background-color: blue;
 	color: gold;
-	margin-right: 850px;
 }
 
 ul {
 	list-style-type: none;
-	display: inline;
+	margin: 30px;
+	font-size: 20px;
 }
 
 li a {
 	font-family: arial;
+	list-style-type: none;
 	color: white;
+}
+
+li {
+	display: inline;
+	padding: 60px;
+	padding-bottom: 30px;
+	padding-top: 10px;
 }
 
 body {
@@ -24,10 +31,6 @@ body {
 	text-align: center;
 	font-family: arial, sans-serif;
 	font-size: 12px;
-}
-
-p {
-	float: left;
 }
 
 p3 {
