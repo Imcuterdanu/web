@@ -37,3 +37,23 @@ p3 {
 	float: left;
 	margin-right: 50px;
 }
+
+form {
+	border-style: solid;
+	border-color: blue;
+	text-align: left;
+	margin-bottom: 170px;
+	margin-top: 100px;
+	padding-left: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.qalist {
+	display: block;
+}
+
+.logos {
+	float: left;
+	padding: 20px;
+}
