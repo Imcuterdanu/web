@@ -1,7 +1,8 @@
 nav {
 	list-style-type: none;
 	background-color: blue;
-	color: gold;
+	color: black;
+	text-align: center;
 }
 
 ul {
@@ -31,6 +32,7 @@ body {
 	text-align: center;
 	font-family: arial, sans-serif;
 	font-size: 12px;
+	margin-top: 200px;
 }
 
 p3 {
@@ -56,4 +58,29 @@ form {
 .logos {
 	float: left;
 	padding: 20px;
+}
+
+img {
+	box-shadow: 10px;
+}
+
+a:hover {
+    color: gold;
+}
+
+.yuba {
+	text-align: right;
+	float: right;
+	padding: 80px;
+}
+
+.code {
+	text-align: right;
+	float: right;
+	padding: 50px;
+}
+
+.csrm {
+	float: left;
+	padding: 10px;
 }
