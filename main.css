@@ -3,18 +3,21 @@ nav {
 	background-color: blue;
 	color: black;
 	text-align: center;
+	min-width: 750px;
 }
 
 ul {
 	list-style-type: none;
 	margin: 30px;
 	font-size: 20px;
+	min-width: 750px;
 }
 
 li a {
 	font-family: arial;
 	list-style-type: none;
 	color: white;
+	min-width: 750px;
 }
 
 li {
@@ -22,10 +25,12 @@ li {
 	padding: 60px;
 	padding-bottom: 30px;
 	padding-top: 10px;
+	min-width: 750px;
 }
 
 body {
 	font-family: arial;
+	min-width: 750px;
 }
 
 .foot {
@@ -34,11 +39,13 @@ body {
 	font-size: 12px;
 	margin-top: 200px;
 	color: black;
+	min-width: 750px;
 }
 
 p3 {
 	float: left;
 	margin-right: 50px;
+	min-width: 750px;
 }
 
 form {
@@ -50,6 +57,7 @@ form {
 	padding-left: 40px;
 	padding-bottom: 10px;
 	padding-top: 10px;
+	min-width: 750px;
 }
 
 .qalist {
